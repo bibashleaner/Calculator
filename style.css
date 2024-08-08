@@ -31,6 +31,7 @@ h1{
     border-radius: 8px;
     background-color: aqua;
     margin-bottom: 2rem;
+    font-size: 40px;
 }
 
 .btn{
@@ -65,6 +66,14 @@ h1{
     height: 4rem;
     width: 4rem;
     font-size: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#equalto{
+    height: 4rem;
+    width: 9.3rem;
+    font-size: 40px;
     margin-right: 20px;
     margin-bottom: 20px;
 }
